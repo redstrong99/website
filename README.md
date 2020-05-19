@@ -9,3 +9,7 @@ Adding changes for example
 ### Even more changes
 
 Adding more changes
+
+#### Changes to cause trouble
+
+Adding changes in the same file to cause trouble when merging branches
